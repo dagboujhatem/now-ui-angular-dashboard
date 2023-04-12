@@ -21,7 +21,7 @@
     ]
   },
   "angularCompilerOptions": {
-    "enableIvy": false ,// Remove this line or use true
-    "compilationMode": "full" // Add this line
+    "enableIvy": true ,// Remove this line or use true
+    "compilationMode": "full" // Add this line (full or partial)
  }
 }
